@@ -2,12 +2,12 @@
 Machine Learning Model Algorithms (Supervised Methods) to predict the defaulters of repaying bank loans.
 
 Models Applied: 
->1. Logistic Regression
->2. Support Vector Machine
->3. K Nearest Neighbour
->4. Decision Tree
->5. Random Forest Classifier
->6. Artificial Neural Network
+>1. **Logistic Regression**
+>2. **Support Vector Machine**
+>3. **K Nearest Neighbour**
+>4. **Decision Tree**
+>5. **Random Forest Classifier**
+>6. **Artificial Neural Network**
 
 Contains 15 features about credit applicants.
 
