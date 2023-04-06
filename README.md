@@ -1,6 +1,14 @@
 # Bank-Loan-Default-Prediction-Supervised-ML-Algorithms
 Machine Learning Model Algorithms (Supervised Methods) to predict the defaulters of repaying bank loans.
 
+Models Applied: 
+-> 'Logistic Regression'
+-> 'Support Vector Machine'
+-> 'K Nearest Neighbour'
+-> 'Decision Tree'
+-> 'Random Forest Classifier'
+-> 'Artificial Neural Network'
+
 Contains 15 features about credit applicants.
 
 Feature Description:
