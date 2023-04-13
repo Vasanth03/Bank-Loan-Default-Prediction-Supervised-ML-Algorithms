@@ -23,7 +23,7 @@ Feature Description:
 7. dti : Debt-To-Income ratio - calculated using the borrower’s
 monthly debt(excluding mortgage, LCloan) divided by the borrower’s self-reported monthly income.
 8. purpose : Reason for Loan request.
-9. term : The number of months on repyment (36 or 60 months).
+9. term : The number of months on repayment (36 or 60 months).
 10. last_delinq_none : Atleast one event of criminal behaviour.
 11. last_major_derog_none: Atleast 90 days of bad rating.
 12. revol_util : Percentage of credit utilization relative to the
